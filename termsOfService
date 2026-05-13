@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>EvoRP Terms of Service</title>
+
+  <style>
+    body {
+      margin: 0;
+      padding: 40px 20px;
+      background: #0f0f14;
+      color: #f5f5f7;
+      font-family: Arial, sans-serif;
+      line-height: 1.7;
+    }
+
+    .container {
+      max-width: 850px;
+      margin: 0 auto;
+    }
+
+    h1 {
+      font-size: 38px;
+      margin-bottom: 10px;
+    }
+
+    h2 {
+      margin-top: 40px;
+      color: #ff4fd8;
+    }
+
+    p, li {
+      color: #cfcfd6;
+      font-size: 15px;
+    }
+
+    a {
+      color: #ff4fd8;
+      text-decoration: none;
+    }
+
+    .card {
+      background: #181820;
+      border: 1px solid #2b2b36;
+      border-radius: 18px;
+      padding: 30px;
+      margin-top: 25px;
+    }
+
+    .footer {
+      margin-top: 40px;
+      opacity: 0.7;
+      font-size: 13px;
+    }
+
+    ul {
+      padding-left: 20px;
+    }
+
+    .nav {
+      margin-bottom: 25px;
+    }
+
+    .nav a {
+      margin-right: 15px;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+
+    <div class="nav">
+      <a href="index.html">Home</a>
+      <a href="privacy.html">Privacy Policy</a>
+    </div>
+
+    <h1>Terms of Service</h1>
+    <p>Last updated: May 2026</p>
+
+    <div class="card">
+
+      <h2>1. Acceptance of Terms</h2>
+      <p>
+        By accessing or using EvoRP, you agree to these Terms of Service.
+        If you do not agree, you may not use the application.
+      </p>
+
+      <h2>2. Age Requirement</h2>
+      <p>
+        EvoRP may contain adult-oriented or NSFW content.
+        You must be at least 18 years old to use adult features or access mature content.
+      </p>
+
+      <h2>3. AI-Generated Content</h2>
+      <p>
+        EvoRP uses artificial intelligence to generate conversations and roleplay content.
+        AI-generated responses may be fictional, inaccurate, offensive, explicit, or unpredictable.
+        EvoRP does not guarantee the accuracy or reliability of AI-generated content.
+      </p>
+
+      <h2>4. User Conduct</h2>
+      <p>Users agree not to:</p>
+
+      <ul>
+        <li>Use EvoRP for illegal activities</li>
+        <li>Attempt to exploit, attack, or abuse the platform</li>
+        <li>Upload harmful or malicious content</li>
+        <li>Harass or threaten others</li>
+        <li>Attempt to bypass subscription systems or restrictions</li>
+      </ul>
+
+      <h2>5. Accounts</h2>
+      <p>
+        Users are responsible for maintaining the security of their accounts and login credentials.
+      </p>
+
+      <h2>6. Subscriptions and Payments</h2>
+      <p>
+        Premium subscriptions are processed through Google Play.
+        Subscription pricing may vary by region and currency.
+      </p>
+
+      <p>
+        Subscriptions automatically renew unless cancelled through your Google Play account settings.
+      </p>
+
+      <h2>7. Service Availability</h2>
+      <p>
+        EvoRP may change, suspend, or discontinue features at any time without notice.
+      </p>
+
+      <h2>8. Limitation of Liability</h2>
+      <p>
+        EvoRP is provided "as is" without warranties of any kind.
+        We are not responsible for damages, losses, or issues resulting from the use of the app.
+      </p>
+
+      <h2>9. Termination</h2>
+      <p>
+        Accounts may be restricted or terminated if users violate these Terms of Service.
+      </p>
+
+      <h2>10. Changes to Terms</h2>
+      <p>
+        These Terms may be updated at any time without prior notice.
+      </p>
+
+      <h2>11. Contact</h2>
+      <p>
+        Contact: your@email.com
+      </p>
+
+    </div>
+
+    <div class="footer">
+      © 2026 EvoRP. All rights reserved.
+    </div>
+
+  </div>
+</body>
+</html>
